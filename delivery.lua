@@ -12,7 +12,7 @@ local DOT_SPACING    = 3
 local DOT_SIZE       = 0.35
 local DOT_COLOR      = Color3.fromRGB(255, 210, 0)
 local PATH_Y_OFFSET  = 0.5
-local RECOMPUTE_RATE = 2.0
+local RECOMPUTE_RATE = 1.0
 
 -- Hardcoded return position
 local RETURN_POSITION = Vector3.new(-46.484, 5.844, -37.790)
