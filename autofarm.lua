@@ -1,4 +1,3 @@
--- // Unauthorized reverse engineering is prohibited // --
 local OOlOOIIlOO_Il____=string.char
 local OIOl__l_OIlOO_=table.concat
 local IOl_l__OOOIO__=table.insert
